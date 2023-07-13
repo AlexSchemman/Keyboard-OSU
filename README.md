@@ -1,4 +1,4 @@
-# kb
+# keyboard-osu
 
 ## Project setup
 ```
